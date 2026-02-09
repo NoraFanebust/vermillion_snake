@@ -4,7 +4,7 @@ plot(
   y = iris$Petal.Width,
   xlab = "Petal length",
   ylab = "Petal width",
-  cex = 5,
+  cex = 1,
   pch=15,
   col = "blue",
   main = "Iris petal length agianst with"
