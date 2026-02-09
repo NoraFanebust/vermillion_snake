@@ -6,6 +6,6 @@ plot(
   ylab = "Petal width",
   cex = 3,
   pch=21,
-  col = "hotpink",
+  col = "blue",
   main = "Iris petal length agianst with"
 ) 
